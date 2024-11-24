@@ -16,6 +16,10 @@
       {
         "command": "vscode-plugin-zheng.helloWorld",
         "title": "Hello World"
+      },
+      {
+        "command": "vscode-plugin-zheng.calc",
+        "title": "计算贷款"
       }
     ]
   },
